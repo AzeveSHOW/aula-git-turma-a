@@ -3,4 +3,3 @@ public class Exemplo01 {
 	System.out.println("Olá Galera");
 		}
 }
-//TESTE
